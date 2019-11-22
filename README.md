@@ -12,7 +12,7 @@ The objective of the project is to make a smart device that can sit on top pf a 
 5. The data is planned to use on an ML algorithm for prediction.
 
 ## Problems facing
-1. About using Raspberry pi3 or NodeMCU for showing data
-2. Creating a UI (not web) that can show the results.
-3. Whether to use a GPS module to track the respective transformer.
-4. How to calculate current.
+1. About using Raspberry pi3 or NodeMCU for showing data (planned:- for now using Raspi)
+2. Creating a UI (not web) that can show the results. (planned:- learning Java Swing for that)
+3. Whether to use a GPS module to track the respective transformer. (planned:- since transfrmers are stationary, will keep locations of all transformers without using GPS module)
+4. How to calculate current. (planned:- using an ACS712 current sensor module)
