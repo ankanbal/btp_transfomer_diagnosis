@@ -5,3 +5,14 @@ The objective of the project is to make a smart device that can sit on top pf a 
 
 
 ## Tasks done
+1. Read about the working of a Transformers and the likely features that can lead to failures.
+2. Read two previous works that were directed towards a smard grid system and a transformer detection system.
+3. Basic circuit design is complete.
+4. Succesfuuly taken data from the arduino.
+5. The data is planned to use on an ML algorithm for prediction.
+
+## Problems facing
+1. About using Raspberry pi3 or NodeMCU for showing data
+2. Creating a UI (not web) that can show the results.
+3. Whether to use a GPS module to track the respective transformer.
+4. How to calculate current.
