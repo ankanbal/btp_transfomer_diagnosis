@@ -17,3 +17,4 @@ The objective of the project is to make a smart device that can sit on top pf a 
 3. Whether to use a GPS module to track the respective transformer. (planned:- since transfrmers are stationary, will keep locations of all transformers without using GPS module)
 4. How to calculate current. (planned:- using an ACS712 current sensor module)
 5. Shortage of Analog pins on NodeMCU (planned:- to use NodeMCU as a Wifi module and Arduino as the MCU)
+6. If the above mentioned idea is utilized then whether to use I2C or UART based communication between devices.
