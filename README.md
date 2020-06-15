@@ -18,3 +18,9 @@ The objective of the project is to make a smart device that can sit on top pf a 
 4. How to calculate current. (planned:- using an ACS712 current sensor module)
 5. Shortage of Analog pins on NodeMCU (planned:- to use NodeMCU as a Wifi module and Arduino as the MCU)
 6. If the above mentioned idea is utilized then whether to use I2C or UART based communication between devices.
+
+## how to run site
+1. download btp_main.zip
+2. unzip and run app.js using command "nodemon app.js"
+3. open browser and type localhost:8080/main
+4. there u go
